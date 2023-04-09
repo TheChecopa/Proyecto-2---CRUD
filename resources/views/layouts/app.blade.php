@@ -32,6 +32,7 @@
                     <ul class="navbar-nav me-auto">
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('productos.index') }}">{{ __('Productos')}}</a>
+                            
                         </li>
                     </ul>
 

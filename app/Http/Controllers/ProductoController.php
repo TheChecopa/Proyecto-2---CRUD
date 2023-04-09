@@ -127,3 +127,4 @@ class ProductoController extends Controller
         return redirect('productos')->with('mensaje','Producto borrado');
     }
 }
+ 

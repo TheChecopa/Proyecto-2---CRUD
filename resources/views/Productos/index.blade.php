@@ -56,3 +56,4 @@
     {!! $productos->links() !!}
 </div>
 @endsection
+ 

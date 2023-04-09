@@ -35,7 +35,6 @@
     value="{{ isset($productos->Descripcion)?$productos->Descripcion:old('Descripcion') }}" id="Descripcion">
     <br>
 </div>
-
     <input class="btn btn-success" type="submit" value="{{ $modo }} datos" id="Guardar datos">
     <a class="btn btn-primary" href="{{ url('productos/') }}">Regresar</a>
     <br>
